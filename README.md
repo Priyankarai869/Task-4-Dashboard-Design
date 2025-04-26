@@ -1,6 +1,5 @@
 # Task-4-Dashboard-Design
-This repository contains Power BI Dashboard, PowerPoint summary, and related files for Task 4 (Dashboard Design).<br>
-# Task 4: Dashboard Design - Executive Dashboard<br><br>
+This repository contains Power BI Dashboard, PowerPoint summary, and related files for Task 4 (Dashboard Design).<br><br>
 
 ##  Objective<br>
 Design an interactive Power BI dashboard to track and visualize:<br>
